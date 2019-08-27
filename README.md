@@ -74,3 +74,4 @@ data
 ### 1、代码阅读
 * coco.py
     * [argparse的用法](notes/argparse.md)
+    * [10分钟教程掌握Python调试器pdb](notes/pdb.md)
