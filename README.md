@@ -274,8 +274,9 @@ mrcnn/c++ext# make
 
 mrcnn/c++ext# pip list | grep maskrcnn
 maskrcnn                     0.1   
-
-* 编译COCOAPI：   
+```
+* 编译COCOAPI：
+```   
 ~# cd Buildings/mrcnn/cocoapi/PythonAPI
 Buildings/mrcnn/cocoapi/PythonAPI# make
 
