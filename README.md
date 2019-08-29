@@ -1,5 +1,6 @@
 # Buildings（毕业论文）
-Support PyTorch 1.0.0～1.1.0
+Support PyTorch 1.0.0～1.1.0   
+参考：https://github.com/delldu/MaskRCNN   
 ## 一、网络介绍(理论知识)
 * [MaskRCNN笔记_TensorFlow](https://github.com/fusimeng/MaskRCNN)   
 ## 二、运行环境
