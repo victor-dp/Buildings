@@ -249,10 +249,9 @@ data
 
 
 ## 五、代码阅读
-* coco.py
-    * [argparse的用法](notes/argparse.md)
-    * [10分钟教程掌握Python调试器pdb](notes/pdb.md)
-
+* [argparse的用法](notes/argparse.md)
+* [10分钟教程掌握Python调试器pdb](notes/pdb.md)
+* [编译封装包](https://github.com/fusimeng/Python/blob/master/notes/pip_myself.md)
 ## 六、代码运行
 ### 1、下载代码和数据
 #### 下载代码：   
